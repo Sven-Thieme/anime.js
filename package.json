@@ -1,0 +1,46 @@
+{
+  "name": "anime",
+  "version": "1.0.0",
+  "description": "animation with anime.js",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-inject": "^5.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemap": "^1.0.1",
+    "gulp-uglify": "^3.0.1",
+    "node-sass": "^4.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sven-Thieme/anime.js.git"
+  },
+  "keywords": [
+    "animation",
+    "javascript",
+    "anime.js"
+  ],
+  "author": "Sven Thieme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sven-Thieme/anime.js/issues"
+  },
+  "homepage": "https://github.com/Sven-Thieme/anime.js#readme"
+}
